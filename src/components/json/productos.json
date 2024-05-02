@@ -1,0 +1,12 @@
+[
+    {"id":1, "nombre":"Pollera Corta", "descripcion": "Con ondas de color negro", "precio": 25000, "imagen": "https://i.pinimg.com/564x/e7/e7/d1/e7e7d1f436da1c9fac9a2ba2ecb9ea39.jpg", "stock":9, "categoria": "polleras"},
+    {"id":2, "nombre":"Pollera Corta", "descripcion": "Lisa de color negro", "precio": 24000, "imagen":"https://i.pinimg.com/564x/df/6b/98/df6b981274bb6aa63868fdf0fb415e5e.jpg", "stock":5, "categoria": "polleras"},
+    {"id":3, "nombre":"Pollera Corta", "descripcion": "Con tablas", "precio": 29000, "imagen":"https://i.pinimg.com/564x/66/ab/1b/66ab1baad3f73bee56d4f3c9197a95ef.jpg", "stock":10, "categoria": "polleras"},
+    {"id":4, "nombre":"Remera Mangas largas", "descripcion": "Para usar en otoño-invierno", "precio": 39000, "imagen":"https://i.pinimg.com/564x/df/76/74/df76746c8c2ae414fba5c52e27e8eeb9.jpg", "stock":8, "categoria": "remeras"},
+    {"id":5, "nombre":"Remera Mangas largas", "descripcion": "Color negro- Perfecta para una salida de noche-ademas es estilo casual", "precio": 40009, "imagen":"https://i.pinimg.com/564x/e4/8b/ee/e48beeda9d5830451b62f750860d6e17.jpg", "Stock":1, "categoria": "remeras"},
+    {"id":6, "nombre":"Remera Mangas largas", "descripcion": "Estilo muy sensual", "precio": 77002, "imagen":"https://i.pinimg.com/564x/b1/88/92/b18892390d7f7b2b42ccf1c2089643a1.jpg", "stock":2, "categoria": "remeras"},
+    {"id":7, "nombre":"Sweaters", "descripcion": "Especial para otoño-invierno", "precio": 99000, "imagen":"https://i.pinimg.com/564x/6d/eb/ac/6debac6823014a918e5f2ea5396da408.jpg", "stock":7, "categoria": "sweaters"},
+    {"id":8, "nombre":"Sweaters", "descripcion": "Especial para otoño-invierno", "precio": 199000, "imagen":"https://i.pinimg.com/564x/41/19/11/4119112021abb5eedf7b1eb44d22d59e.jpg", "stock":3, "categoria": "sweaters"},
+    {"id":9, "nombre":"Sweaters", "descripcion": "Especial para otoño-invierno", "precio": 89000, "imagen":"https://i.pinimg.com/564x/1b/2f/10/1b2f10045a3bc38367f821a48b974916.jpg", "stock":6, "categoria": "sweaters"}
+   
+]
